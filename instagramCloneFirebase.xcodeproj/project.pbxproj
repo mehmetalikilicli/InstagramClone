@@ -74,11 +74,11 @@
 			isa = PBXGroup;
 			children = (
 				1741B45228A3B9710075BA74 /* AppDelegate.swift */,
+				174814B028A6B55300825C5B /* FeedCell.swift */,
+				179CD1C828A3ED2500EC19D9 /* FeedViewController.swift */,
 				1741B45428A3B9710075BA74 /* SceneDelegate.swift */,
 				1741B45628A3B9710075BA74 /* ViewController.swift */,
 				179CD1CC28A3ED5100EC19D9 /* SettingsViewController.swift */,
-				179CD1C828A3ED2500EC19D9 /* FeedViewController.swift */,
-				174814B028A6B55300825C5B /* FeedCell.swift */,
 				179CD1CA28A3ED3700EC19D9 /* UpLoadViewController.swift */,
 				1741B45828A3B9710075BA74 /* Main.storyboard */,
 				1741B46628A3BC3C0075BA74 /* GoogleService-Info.plist */,
